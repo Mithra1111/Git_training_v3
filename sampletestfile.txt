@@ -1,1 +1,3 @@
 this is samplefile 1
+this is the new commit for reset of the file
+kindly use commit messages 
