@@ -1,3 +1,4 @@
 this is samplefile 2
 new file commit for revert changes for commit reversal2
 commmit message2
+this is comparison lecture
