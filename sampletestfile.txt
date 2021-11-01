@@ -1,2 +1,9 @@
 this is samplefile 1
+
 Climate change threatens people with food and water scarcity, increased flooding, extreme heat, more disease, and economic loss. ... Even if efforts to minimise future warming are successful, some effects will continue for centuries. These include sea level rise, and warmer, more acidic oceans.
+
+this is the new commit for reset of the file
+kindly use commit messages 
+this is comparison lecture
+
+
