@@ -7,4 +7,8 @@ kindly use commit messages
 this is comparison lecture
 
 
+<<<<<<< Updated upstream
 this is urgent fix in main file  
+=======
+this is stash lecture change in file  
+>>>>>>> Stashed changes
